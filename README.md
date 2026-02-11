@@ -1,1 +1,5 @@
-# DL_EX3_ConvolutionalDeepNeuralNetworkForImageClassification
+### NAME: SURYA P <br>
+### REG NO: 212224230280 <br> 
+### Date: 11/02/2026
+
+## EX. No. 3 : CONVOLUTIONAL DEEP NEURAL NETWORK FOR IMAGE CLASSIFICATION
